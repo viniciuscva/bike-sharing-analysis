@@ -1,4 +1,4 @@
-# Data Analysis project for a mock bike sharing company
+# Projeto de Análise de Dados para uma empresa fictícia de aluguel de bicicletas
 
 Este é um Projeto de análise de dados com o objetivo de analisar dados de uma empresa fictícia de aluguel de bicicletas, e recomendar decisões de negócio.
 
