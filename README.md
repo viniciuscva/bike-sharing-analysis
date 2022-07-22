@@ -11,6 +11,13 @@ como os dados fictícios da nossa empresa fictícia Cyclistic. [Link para baixar
 O objetivo deste projeto de análise de dados é identificar insights que ajudem na definição de métricas, e planejamento de metas e estratégias de business para que mais clientes da empresa realizem a assinatura anual de fidelidade.
 
 O dashboard principal da etapa de data visualization pode ser encontrado [aqui](https://public.tableau.com/app/profile/carlos.vinicius3512/viz/Bike_Sharing_Analysis_16407949341070/Dashboard6).
+--------------------------------------------------------------------------------------------------
+[![Dashboard 6 ](https://public.tableau.com/static/images/Bi/Bike_Sharing_Analysis_16407949341070/Dashboard6/1_rss.png)](#)
+
+   
+
+var divElement = document.getElementById('viz1658462064470'); var vizElement = divElement.getElementsByTagName('object')\[0\]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth\*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth\*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1127px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz\_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);
+--------------------------------------------------------------------------------------------------
 
 A análise sugere que os clientes casuais tendem a preferir alugar no sábado ou domingo e possuem um interesse cada vez maior em bicicletas elétricas. Além disso, a quantidade de aluguéis partindo da estação Streeter Dr & Grand Ave é cerca de duas vezes maior que as outras três estações mais populares.
 
